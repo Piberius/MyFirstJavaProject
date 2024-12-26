@@ -1,5 +1,7 @@
 #Ignore IDE-specific files
 *.class
+*.classpath
+*.project
 /.settings/
 /bin/
 /target/
