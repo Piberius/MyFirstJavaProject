@@ -31,7 +31,7 @@ public class FruitService {
             jaxbMarshaller.marshal(o, new File("C:\\Users\\DJK\\eclipse-workspace\\MyFirstJavaProject\\test\\fruit.xml"));
 
             // output to console
-            // jaxbMarshaller.marshal(o, System.out);
+             jaxbMarshaller.marshal(o, System.out);
 
         } catch (JAXBException e) {
             e.printStackTrace();
