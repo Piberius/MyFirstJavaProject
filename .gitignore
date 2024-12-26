@@ -1,0 +1,10 @@
+#Ignore IDE-specific files
+*.class
+/.settings/
+/bin/
+/target/
+/lib/
+
+#ignore build artifacts
+*.jar
+*.war
