@@ -1,14 +1,16 @@
-package main;
+package com.main.process;
 
 import java.io.File;
+
+import com.main.xml.Fruit;
 
 import jakarta.xml.bind.JAXBContext;
 import jakarta.xml.bind.JAXBException;
 import jakarta.xml.bind.Marshaller;
 
-public class MyFirstJavaProject {
-
-	public static void main(String[] args) {
+public class FruitService {
+	
+	public static void getFruits() { 
         JAXBContext jaxbContext = null;
         try {
 
@@ -35,5 +37,4 @@ public class MyFirstJavaProject {
             e.printStackTrace();
         }
 	}
-
 }

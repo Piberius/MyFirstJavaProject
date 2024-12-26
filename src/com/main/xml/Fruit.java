@@ -1,4 +1,4 @@
-package main;
+package com.main.xml;
 
 import jakarta.xml.bind.annotation.XmlAccessType;
 import jakarta.xml.bind.annotation.XmlAccessorType;
