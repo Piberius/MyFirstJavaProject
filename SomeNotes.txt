@@ -1,0 +1,9 @@
+Used https://easywsdl.com/generator
+to generate necessary classes
+From -> https://www.dataaccess.com/webservicesserver/numberconversion.wso?WSDL
+
+=> WSDL - Web Services Description Language
+XML-based language used to describe the functionality and details of web services. 
+WSDL provides a standard way for services to describe what they do, 
+how they are accessed, and what inputs and outputs they expect,
+making it easier for systems to interact with web services.
