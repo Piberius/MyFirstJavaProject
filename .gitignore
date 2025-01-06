@@ -1,6 +1,4 @@
-#Ignore IDE-specific files
-*.class
-/.settings/
+#Ignore generated files
 /bin/
 /target/
 
