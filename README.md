@@ -19,12 +19,13 @@
 ## Environment Setup
 1. **Clone the Repository**
    - [How to clone a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-2. **Import the Project into Eclipse** *(To verify steps)*
+2. **Import the Project into Eclipse**
    - Open Eclipse
-   - Go to **File > Import > General > Existing Projects into Workspace** *(To Do - Push project related files into repo).*
-   - Select the project directory and click **Finish**
-3. **Add dependencies to Build Path
-   - [How to import dependencies in Eclipse](https://www.quora.com/How-do-I-import-dependencies-in-Eclipse)
+   - Go to **File > Open Projects from File System... >**
+   - Import Source - Select "MyFirstJavaProject" Folder and click **Finish**
+3. **Move dependencies into lib folder**
+4. ~~**Add dependencies to Build Path**~~
+   - ~~[How to import dependencies in Eclipse](https://www.quora.com/How-do-I-import-dependencies-in-Eclipse)~~
 
 ## Running the Application in Eclipse
  1. Locate the main class in MyFirstJavaProject.java *(CTRL+SHIFT+R to search by filename)*
