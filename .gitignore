@@ -1,11 +1,14 @@
 #Ignore IDE-specific files
 *.class
-*.classpath
-*.project
 /.settings/
 /bin/
 /target/
-/lib/
+
+#Do not ignore lib folder
+!lib/
+
+# ignore jar files in lib folder
+lib/*.jar
 
 #ignore build artifacts
 *.jar
