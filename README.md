@@ -31,3 +31,10 @@
  1. Locate the main class in MyFirstJavaProject.java *(CTRL+SHIFT+R to search by filename)*
  2. Right-click and Select Run As > Java Application *(Application currently only prints a few lines in console and terminates)*
 
+## Version Info
+
+## Planned Changes
+1. Add offline WSDL - country info - http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL
+2. Generate Java classes with wsimport tool - https://javaee.github.io/metro-jax-ws/
+3. Enable User to input - request key - request value
+4. Fetch response based on user input
